@@ -11,5 +11,12 @@
 8.Material UI design has also used.
 9.State Management, Providers are also used.
 
-#screenshot
+#screenshot main screen
 ![Screenshot_1607872472](https://user-images.githubusercontent.com/55195660/102015952-6c7c6080-3d84-11eb-959e-7d297e9af0e0.png)
+
+#screenshot 1
+![Screenshot_1607872488](https://user-images.githubusercontent.com/55195660/102016233-e234fc00-3d85-11eb-9a76-e41be38087c2.png)
+#screenshot 2
+![Screenshot_1607872492](https://user-images.githubusercontent.com/55195660/102016239-e95c0a00-3d85-11eb-8e34-242132360d21.png)
+#screenshot 3
+![Screenshot_1607872505](https://user-images.githubusercontent.com/55195660/102016242-ee20be00-3d85-11eb-959c-9e209fd92d15.png)
